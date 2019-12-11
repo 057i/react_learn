@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/react_router做学生系统跳转" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react_test1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/利用react-router仿写vue-router" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/受保护路由插件" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/常用路由组件" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/滚动条复位" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/路由切换动画" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/路由嵌套" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/阻止默认跳转" vcs="Git" />
+  </component>
+</project>
